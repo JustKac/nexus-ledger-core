@@ -32,5 +32,11 @@ replay_pid*
 .idea/
 *.iml
 
+# VSCode project files
+.vscode/
+
 # Java compiled output
 target/
+
+# MacOS specific files
+.DS_Store
