@@ -32,5 +32,9 @@ replay_pid*
 .idea/
 *.iml
 
+# VSCode project files
+.vscode/
+
 # Java compiled output
 target/
+src/main/java/com/nexus/ledger/.DS_Store
