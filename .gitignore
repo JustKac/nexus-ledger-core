@@ -37,4 +37,6 @@ replay_pid*
 
 # Java compiled output
 target/
-src/main/java/com/nexus/ledger/.DS_Store
+
+# MacOS specific files
+.DS_Store
